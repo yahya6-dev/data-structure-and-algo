@@ -1,0 +1,16 @@
+{
+	"name":"Show Time",
+	"version":"1.2",
+	"manifest_version":2,
+	"description":"Show Time Sample",
+	"browser_action":{
+		"default_icon":"clock.png",
+		"default_title":"Show Time",
+		"default_popup":"popup.html"
+	},
+	"icons":{
+		"16":"clock16x16.png",
+		"48":"clock48x48.png",
+		"128":"clock128x128.png"
+	}
+}
